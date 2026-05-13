@@ -13,4 +13,4 @@ Output
    simple interest = (p*t*r)/100
 ```
 
-_© 2022 IBM, Inc._
+_© 2023 IBM, Inc._
